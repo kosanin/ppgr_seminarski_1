@@ -21,3 +21,9 @@ Redosled biranja tacaka je:
 4. donja-desna
 
 ![Primer](https://github.com/petar-kosanin/ppgr_seminarski_1/blob/master/data/example.jpg)
+
+Naredba za pokretanje aplikacije iz terminala:
+
+```bash
+python3 MainWindow.py
+```
