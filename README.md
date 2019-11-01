@@ -20,6 +20,7 @@ python3 MainWindow.py
 ```
 
 Primer koriscenja:
+
 ![prozor](https://github.com/petar-kosanin/ppgr_seminarski_1/blob/master/data/primer_prozora.PNG)
 
 Nakon pokretanja programa, izaberite sliku i podesite parametre. Pritiskom na dugme Pokreni, iskace novi prozor gde mozete izabrati tacke koje se slikaju u pravougaonik.
