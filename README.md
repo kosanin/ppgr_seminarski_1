@@ -13,6 +13,15 @@ Primer koriscenja:
 pip install PyQt5
 ```
 
+Naredba za pokretanje aplikacije iz terminala(potrebno je pozicionirati se u direktorijumu u kojem se nalaze datoteke, ili navodjenje apsolutne putanje):
+
+```bash
+python3 MainWindow.py
+```
+
+Primer koriscenja:
+
+
 Prilikom odabira tacaka koje se slikaju u pravougaonik, bitan je redosled biranja.
 Redosled biranja tacaka je:
 1. gornja-leva
@@ -20,10 +29,7 @@ Redosled biranja tacaka je:
 3. donja-leva
 4. donja-desna
 
+
 ![Primer](https://github.com/petar-kosanin/ppgr_seminarski_1/blob/master/data/example.jpg)
 
-Naredba za pokretanje aplikacije iz terminala:
 
-```bash
-python3 MainWindow.py
-```
