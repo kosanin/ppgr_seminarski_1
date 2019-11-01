@@ -19,7 +19,8 @@ Naredba za pokretanje aplikacije iz terminala(potrebno je pozicionirati se u dir
 python3 MainWindow.py
 ```
 
-Primer koriscenja:
+Aplikacija za sada radi samo na Windows operativnom sistemu.
+Primer koriscenja aplikacije:
 
 ![prozor](https://github.com/petar-kosanin/ppgr_seminarski_1/blob/master/data/primer_prozora.PNG)
 
